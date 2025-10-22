@@ -1,4 +1,4 @@
-## 2025-10-18 18:10 – Initial planning
+## 2025-10-19 16:18 – Initial planning
 - Read project spec. Plan to implement three Python programs: logger, encrypt (Vigenère), driver.
 - Driver will spawn two subprocesses and pipe stdin/stdout accordingly.
 - Goals: letters-only validation, case-insensitive cipher, per-run history, masked password logging.
